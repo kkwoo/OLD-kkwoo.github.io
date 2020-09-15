@@ -1,5 +1,6 @@
-layout: default
-title: First Post
+layout: page
+title: "First Post"
+permalink: /first-post/
 
 Just saying hi.
 
