@@ -1,10 +1,7 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: default
+title: First Post
 ---
-First post
-==========
-
 Just saying hi.
 
 Next step: creating a raw page for JS learning.
