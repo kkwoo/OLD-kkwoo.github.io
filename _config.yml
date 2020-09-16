@@ -1,4 +1,6 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
+# Build settings
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
